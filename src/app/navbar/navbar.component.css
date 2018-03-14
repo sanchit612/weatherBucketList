@@ -1,0 +1,19 @@
+#title{
+  font-family: 'Monoton', cursive;
+  font-size: 30px;
+  color : #e5e5e3;
+}
+
+ul{
+  list-style-type: none;
+  width : 300px;
+  float : right;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+li{
+  display : inline;
+  padding-left: 10px;
+  font-size: 18;
+}
